@@ -21,9 +21,9 @@ Challenge the computer and keep track of your scores!
 1. **Click** on **Stone, Paper, or Scissors**.
 2. The computer will randomly select a choice.
 3. The game determines the **winner** based on classic rules:
-   - 🪨 **Stone beats Scissors** ✂️
-   - 📄 **Paper beats Stone** 🪨
-   - ✂️ **Scissors beat Paper** 📄
+   -  **Stone beats Scissors** 
+   -  **Paper beats Stone** 
+   -  **Scissors beat Paper** 
 4. The result and scores are updated instantly.
 
 ##  How to Run Locally?
